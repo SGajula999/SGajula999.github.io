@@ -18,7 +18,7 @@
     }
 </style>
 <body id="grad1">
-
+<!DOCTYPE html>
 <div class="a">
 <h1> MY PORTFOLIO </h1>
 
