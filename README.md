@@ -30,8 +30,6 @@ Below are some programming languages/softwares I have worked with and snippets o
 <h3> Tools:</h3>
 
 </div>
-</body>
-</html>
 
 ![tools v3](https://user-images.githubusercontent.com/121447690/210023450-cd51267f-421a-4730-ac41-de08f43598cf.png)
 
