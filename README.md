@@ -28,11 +28,13 @@
 I have been coding for 8 years, and want a career in the computer science industry. Below are some programming languages/softwares I have worked with and snippets of code from projects I have done.</h3>
 <h3> Tools:</h3>
 
+</body>
 </html>
 
 ![tools v3](https://user-images.githubusercontent.com/121447690/210023450-cd51267f-421a-4730-ac41-de08f43598cf.png)
 
-</html>
+<html>
+<body>
 
 <h2> PROJECTS: </h2>
 <h3>Blackjack:</h3> 
@@ -41,6 +43,7 @@ I have been coding for 8 years, and want a career in the computer science indust
 
 <h4>This project simulates a conventional game of blackjack with realistic card storage, a dealer with multiple strategies, and a replay function that stores your wins. Made using Python.</h4>
 
+</body>
 </html>
 
 ![BlackJack](https://user-images.githubusercontent.com/121447690/210023821-690d5f92-c980-45b1-a640-548a87ff702e.png)
