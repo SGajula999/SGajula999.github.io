@@ -28,6 +28,7 @@
 I have been coding for 8 years, and want a career in the computer science industry. Below are some programming languages/softwares I have worked with and snippets of code from projects I have done.</h3>
 <h3> Tools:</h3>
 
+</div>
 </body>
 </html>
 
