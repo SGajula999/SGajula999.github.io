@@ -19,7 +19,6 @@
 <body id="grad1">
 <div class="a">
   
-
 <h1> MY PORTFOLIO </h1>
 
 <h2> ABOUT ME: </h2>
@@ -27,9 +26,11 @@
 <h3> I am Suraj Gajula, High School Senior. <br> I would like to pursue undergrad and higher studies in Computer Science major. <br><br>
 I have been coding for 8 years, and want a career in the computer science industry. <br><br>
 Below are some programming languages/softwares I have worked with and snippets of code from projects I have done.</h3><br>
-<h3> Tools & Technologies:</h3>
+
+<h3 align="left"> Tools & Technologies:</h3>
 
 </div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </body>
 </html>
 
@@ -45,6 +46,8 @@ Below are some programming languages/softwares I have worked with and snippets o
 
 <h4>This project simulates a conventional game of blackjack with realistic card storage, a dealer with multiple strategies, and a replay function that stores your wins. Made using Python.</h4>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    
 </body>
 </html>
 
