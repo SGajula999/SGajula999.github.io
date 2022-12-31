@@ -8,7 +8,7 @@
         color: rgb(8, 174, 19);
     }
     #grad1 {
-         height: 3000px;
+         height: 3800px;
          background-color: rgb(1, 49, 125); 
          background-image: linear-gradient(rgb(0, 17, 44), rgb(111, 129, 154));
     }
