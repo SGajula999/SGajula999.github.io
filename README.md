@@ -55,15 +55,16 @@ Below are some programming languages/softwares I have worked with and snippets o
 <html>
 <body>
 
-<h3>Fruitstand:</h3>
+<h3>Repeated Word Count:</h3>
 
 <!-- <img src="C:\Users\surgi\OneDrive\Pictures\Screenshots\2022-12-28 (2).png" alt = "Fruitstand code" width = "800px" height= "350px">-->
-<h4>This project simulates a fruitstand and takes count of data related to the sales inputted. Made using C++.</h4>
+<h4>This project orders each word in an inputted essay by the amount of times you used it so you know when to diversify your language. Made using Python.</h4>
 
 </body>
 </html>
 
-![FruitStand](https://user-images.githubusercontent.com/121447690/210023834-4a6600c8-b834-432e-aaa0-b11a35588109.png)
+![RepeatedWordCount](https://user-images.githubusercontent.com/121447690/210155576-a46279d2-0a0d-4bd5-b31c-113b51f74ebe.png)
+
 
 <html>
 <body>
